@@ -2,6 +2,13 @@
 //  DetailsView.swift
 //  FirstIosApp
 //
+//  Created by Abhishek Satpute on 24/11/25.
+//
+
+//
+//  DetailsView.swift
+//  FirstIosApp
+//
 
 import SwiftUI
 
