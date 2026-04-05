@@ -26,7 +26,7 @@ Suitable for beginners and Android/Kotlin developers transitioning to iOS.
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/yourusername/FirstIosApp.git
+git clone https://github.com/Abhi22-github/First-Ios-App.git
 ```
 
 ### 2️⃣ Open the project
